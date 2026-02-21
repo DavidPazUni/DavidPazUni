@@ -48,6 +48,11 @@ Soy estudiante de **Diseño y Desarrollo de Videojuegos**. [cite_start]Mi perfil
 * **BuTrivial:** Aplicación nativa de trivia con sistemas de puntuación y categorías.
 * **Datos:** Uso de estructuras **XML** y **JSON** para la persistencia y carga de contenido.
 
+## 💾 Gestión de Datos y Persistencia
+Aunque no todos mis repositorios son visuales, cuento con sólida experiencia gestionando el flujo de información:
+* **Bases de Datos**: Creación y consumo de bases de datos NoSQL con **MongoDB**.
+* **Estructuras de Datos**: Diseño de bases de datos conceptuales transformadas a formatos **JSON** y **XML** mediante scripts de **Python**.
+
 ---
 
 ## 🎨 Galería de Arte Digital
