@@ -1,7 +1,7 @@
 # ¡Hola! Soy [Tu Nombre] 👋
-### Game Developer | Technical Artist | Scrum Master & Product Owner
+### Game Developer | Technical Artist | 
 
-Soy estudiante de **Diseño y Desarrollo de Videojuegos**, especializado en la creación de experiencias interactivas que combinan lógica compleja de IA, sistemas multijugador y arte digital. Me apasiona el equilibrio entre el código eficiente y la narrativa visual.
+Soy estudiante de **Diseño y Desarrollo de Videojuegos**, con dominio en la creación de experiencias interactivas que combinan lógica compleja de IA, sistemas multijugador y arte digital. 
 
 ---
 
@@ -20,15 +20,15 @@ Soy estudiante de **Diseño y Desarrollo de Videojuegos**, especializado en la c
 
 ## 🚀 Proyectos Destacados (Portfolio)
 
-### [cite_start]🧟 Zpain - Zombie Survival (Unity 3D) 
+### 🧟 Zpain - Zombie Survival (Unity 3D) 
 [cite_start]El proyecto más ambicioso de diseño y desarrollo
 * [cite_start]**Concepto:** Shooter en primera persona ambientado en una recreación real de Callao, Madrid
 * [cite_start]**Rol:** Progamador de la logica del juego junto con mis compañeros
 
 
-### [cite_start]🃏 Darkards - TCG 3D (Gestión Ágil) [cite: 8]
-Proyecto desarrollado simulando la metodología **SCRUM** durante 3 meses.
-* **Roles de Gestión:** Desempeñé los cargos de **Scrum Master** y **Product Owner**, gestionando el backlog y facilitando la agilidad del equipo.
+### 🃏 Darkards - TCG 3D (Gestión Ágil)
+Proyecto desarrollado simulando la metodología **SCRUM** durante 3 meses, enfocado en aprender y dominar la misma.
+* **Roles de Gestión:** Por turnos, junto a mis compañeros,desempeñe y aprendi acerca de los cargos de **Scrum Master** y **Product Owner**, gestionando el backlog y facilitando la agilidad del equipo.
 * **Desarrollo:** Juego de cartas en 3D desarrollado en Unity utilizando flujos de trabajo profesionales.
 
 ### 🛒 Mercarrona - IA Avanzada (Unity)
@@ -36,15 +36,20 @@ Simulación compleja de un supermercado centrada en el comportamiento de NPCs.
 * **IA:** Programación de personajes mediante **Árboles de Comportamiento**, Máquinas de Estados (FSM) y **Sistemas de Utilidad**.
 * **Interacción:** Uso de **Smart Objects** para permitir que los agentes interactúen con el entorno de forma autónoma.
 
-### [cite_start]🐱 Hotline Miauami - Multijugador Web [cite: 9, 11]
-[cite_start]Juego de acción rápida con estética retro centrado en la conectividad[cite: 11].
+### 🐱 Hotline Miauami - Multijugador Web 
+Juego de acción rápida con estética retro centrado en la conectividad.
 * **Tecnología:** Desarrollado en **Phaser** con sistema de servidores para juego en red.
-* [cite_start]**Networking:** Implementación de sincronización de estados y HUD multijugador en tiempo real[cite: 16, 18].
+* **Networking:** Implementación de sincronización de estados y HUD multijugador en tiempo real.
 
 ### 📱 LoLdle & BuTrivial (Mobile)
 * **Desarrollo:** Apps móviles nativas creadas en **Android Studio**.
 * **Lógica:** Implementación de bases de datos locales y consumo de recursos para mecánicas de trivia y adivinanza.
 
+### 🔧 ENTORNOS - Refactorización & Networking (Unity)
+* **El Reto:** Partiendo de un proyecto base incompleto y con errores proporcionado por el profesor[cite: 24].
+* **Mi Contribución:** Trabajé junto al autor del repositorio en la depuración completa del sistema y la implementación del modo online.
+* **Tecnología de Red:** Uso de **Unity Netcode** para transformar una experiencia local en un entorno multijugador funcional.
+* **Habilidades:** Refactorización de código ajeno, resolución de bugs de sincronización y gestión de arquitectura cliente-servidor.
 ---
 
 ## 📊 Estadísticas y Metodologías
@@ -57,4 +62,4 @@ Simulación compleja de un supermercado centrada en el comportamiento de NPCs.
 - **LinkedIn:** 
 - **Email:** 
 
-*"Transformando la complejidad técnica en diversión visual."*
+
