@@ -1,7 +1,7 @@
-# ¡Hola! Soy [Tu Nombre] 👋
-### Game Developer | Technical Artist | 
+# ¡Hola! Soy David Antonio 👋
+### Game Developer | AI Programmer | Technical Artist | 
 
-Soy estudiante de **Diseño y Desarrollo de Videojuegos**, con dominio en la creación de experiencias interactivas que combinan lógica compleja de IA, sistemas multijugador y arte digital. 
+Soy estudiante de **Diseño y Desarrollo de Videojuegos**. [cite_start]Mi perfil es híbrido: cuento con la capacidad técnica para desarrollar arquitecturas de red y sistemas de IA complejos, y la formación artística para crear assets 3D y 2D de alta calidad.
 
 ---
 
@@ -10,56 +10,54 @@ Soy estudiante de **Diseño y Desarrollo de Videojuegos**, con dominio en la cre
 | Categoría | Herramientas y Tecnologías |
 | :--- | :--- |
 | **Motores y Frameworks** | Unity, Phaser (Web), Android Studio (Flutter/Dart) |
-| **Networking** | Unity Netcode, WebSockets (Arquitectura Cliente-Servidor) |
-| **IA en Videojuegos** | FSM, Behavior Trees, Smart Objects, Utility Systems |
-| **Lenguajes** | C#, JavaScript, Java, Python, Dart, MATLAB, SQL/NoSQL |
-| **IDEs y DB** | Visual Studio, NetBeans, MongoDB, JSON/XML |
-| **Arte y Diseño** | 3ds Max (Low Poly), Photoshop, Illustrator |
+| **Backend / Networking** | **Spring Boot (Java)**, WebSockets, Unity Netcode |
+| **IA en Videojuegos** | Behavior Trees, FSM, Smart Objects, Utility Systems, Pathfinding, Redes Neuronales |
+| **Lenguajes** | C#, Java, JavaScript, Python, Dart, MATLAB, XML/JSON |
+| **IDEs y Bases de Datos** | Visual Studio, NetBeans, MongoDB (NoSQL) |
+| **Diseño y Arte** | 3ds Max (Low Poly), Photoshop, Illustrator |
 
 ---
 
-## 🚀 Proyectos Destacados (Portfolio)
+## 🚀 Proyectos Destacados
 
-### 🧟 Zpain - Zombie Survival (Unity 3D) 
-[cite_start]El proyecto más ambicioso de diseño y desarrollo
-* [cite_start]**Concepto:** Shooter en primera persona ambientado en una recreación real de Callao, Madrid
-* [cite_start]**Rol:** Progamador de la logica del juego junto con mis compañeros
+### 🧟 Zpain - Zombie Survival (Unity 3D)
+* **Concepto:** Shooter en primera persona ambientado en una recreación real de Callao, Madrid.
+* **Arte Técnico:** Modelado completo de escenarios y estructuras urbanas en **3ds Max** con estilo *low poly*.
+* **Gameplay:** Implementación de mecánicas de supervivencia y combate contra hordas.
 
+### 🛒 Mercarrona - IA & Simulación (Unity)
+* **IA Avanzada:** Programación de agentes mediante **Árboles de Comportamiento**, Máquinas de Estados (FSM) y **Sistemas de Utilidad**.
+* **Interacción:** Uso de **Smart Objects** para permitir que los NPCs interactúen con el entorno de forma autónoma y realista.
 
-### 🃏 Darkards - TCG 3D (Gestión Ágil)
-Proyecto desarrollado simulando la metodología **SCRUM** durante 3 meses, enfocado en aprender y dominar la misma.
-* **Roles de Gestión:** Por turnos, junto a mis compañeros,desempeñe y aprendi acerca de los cargos de **Scrum Master** y **Product Owner**, gestionando el backlog y facilitando la agilidad del equipo.
-* **Desarrollo:** Juego de cartas en 3D desarrollado en Unity utilizando flujos de trabajo profesionales.
+### 🃏 Darkards - Agile Management (Unity)
+* **Metodología:** Desarrollo de 3 meses bajo el marco **SCRUM**.
+* **Gestión:** Junto con mis compañeros, por turnos, desempeñé roles de **Scrum Master** y **Product Owner**, liderando la visión del producto y la agilidad del equipo durante el ciclo de vida del proyecto.
+* **Producto:** Juego de cartas en 3D con flujos de trabajo profesionales.
 
-### 🛒 Mercarrona - IA Avanzada (Unity)
-Simulación compleja de un supermercado centrada en el comportamiento de NPCs.
-* **IA:** Programación de personajes mediante **Árboles de Comportamiento**, Máquinas de Estados (FSM) y **Sistemas de Utilidad**.
-* **Interacción:** Uso de **Smart Objects** para permitir que los agentes interactúen con el entorno de forma autónoma.
+### 🐱 Hotline Miauami - Multijugador Web (Phaser + Spring Boot)
+* **Frontend:** Desarrollado con el motor **Phaser**.
+* **Backend:** Servidor robusto creado en **Spring Boot** utilizando **WebSockets** (vía la "hoja de Spring") para gestionar salas, chat y sincronización de jugadores en tiempo real.
+* **Interfaz:** Diseño de HUD dinámico para multijugador y estados de juego sincronizados.
 
-### 🐱 Hotline Miauami - Multijugador Web 
-Juego de acción rápida con estética retro centrado en la conectividad.
-* **Tecnología:** Desarrollado en **Phaser** con sistema de servidores para juego en red.
-* **Networking:** Implementación de sincronización de estados y HUD multijugador en tiempo real.
+### 🔧 ENTORNOS - Networking & Refactorización (Unity)
+* **Rol:** Colaboré en la limpieza de bugs y la implementación de la capa online sobre un proyecto base incompleto.
+* **Networking:** Integración de **Unity Netcode** para transformar una experiencia local en una funcional para múltiples usuarios simultáneos.
 
-### 📱 LoLdle & BuTrivial (Mobile)
-* **Desarrollo:** Apps móviles nativas creadas en **Android Studio**.
-* **Lógica:** Implementación de bases de datos locales y consumo de recursos para mecánicas de trivia y adivinanza.
+### 📱 Desarrollo Móvil (Android Studio)
+* **LoLdle:** Juego de trivia basado en el universo de League of Legends con gestión de datos de personajes.
+* **BuTrivial:** Aplicación nativa de trivia con sistemas de puntuación y categorías.
+* **Datos:** Uso de estructuras **XML** y **JSON** para la persistencia y carga de contenido.
 
-### 🔧 ENTORNOS - Refactorización & Networking (Unity)
-* **El Reto:** Partiendo de un proyecto base incompleto y con errores proporcionado por el profesor[cite: 24].
-* **Mi Contribución:** Trabajé junto al autor del repositorio en la depuración completa del sistema y la implementación del modo online.
-* **Tecnología de Red:** Uso de **Unity Netcode** para transformar una experiencia local en un entorno multijugador funcional.
-* **Habilidades:** Refactorización de código ajeno, resolución de bugs de sincronización y gestión de arquitectura cliente-servidor.
 ---
 
-## 📊 Estadísticas y Metodologías
-* **Agile:** Aplicación real de Scrum en ciclos de desarrollo de software.
-* **Data:** Conversión y gestión de datos complejos entre formatos **JSON, XML y MongoDB**.
-
+## 🎨 Galería de Arte Digital
+* **Modelado 3D:** Diseño y animacion organica y en escenarios optimizados para motores de juego.
+* **Concept Art 2D:** Diseño de personajes (criaturas aladas) y escenarios atmosféricos (criptas y mazmorras).
+* 
 ---
 
 ## 📫 Contacto
 - **LinkedIn:** 
-- **Email:** 
+- **Email:** davidantonioDDV"gmail.com
 
 
