@@ -1,7 +1,7 @@
 # ¡Hola! Soy David Antonio 👋
 ### Game Developer | AI Programmer | Technical Artist | 
 
-Soy estudiante de **Diseño y Desarrollo de Videojuegos**. [cite_start]Mi perfil es híbrido: cuento con la capacidad técnica para desarrollar arquitecturas de red y sistemas de IA complejos, y la formación artística para crear assets 3D y 2D de alta calidad.
+Soy estudiante de **Diseño y Desarrollo de Videojuegos**. Mi perfil es híbrido: cuento con la capacidad técnica para desarrollar arquitecturas de red y sistemas de IA complejos, y la formación artística para crear assets 3D y 2D de alta calidad.
 
 ---
 
@@ -36,7 +36,7 @@ Soy estudiante de **Diseño y Desarrollo de Videojuegos**. [cite_start]Mi perfil
 
 ### 🐱 Hotline Miauami - Multijugador Web (Phaser + Spring Boot)
 * **Frontend:** Desarrollado con el motor **Phaser**.
-* **Backend:** Servidor robusto creado en **Spring Boot** utilizando **WebSockets** (vía la "hoja de Spring") para gestionar salas, chat y sincronización de jugadores en tiempo real.
+* **Backend:** Servidor robusto creado en **Spring Boot** utilizando **WebSockets** para gestionar salas, chat y sincronización de jugadores en tiempo real.
 * **Interfaz:** Diseño de HUD dinámico para multijugador y estados de juego sincronizados.
 
 ### 🔧 ENTORNOS - Networking & Refactorización (Unity)
@@ -45,9 +45,7 @@ Soy estudiante de **Diseño y Desarrollo de Videojuegos**. [cite_start]Mi perfil
 
 ### 📱 Desarrollo Móvil (Android Studio)
 * **LoLdle:** Juego de trivia basado en el universo de League of Legends con gestión de datos de personajes.
-* **BuTrivial:** Aplicación nativa de trivia con sistemas de puntuación y categorías.
-* **Datos:** Uso de estructuras **XML** y **JSON** para la persistencia y carga de contenido.
-
+* **BuTrivial:** Aplicación nativa de trivia con sistemas de puntuación y categorías y uso de persistencia de datos.
 ## 💾 Gestión de Datos y Persistencia
 Aunque no todos mis repositorios son visuales, cuento con sólida experiencia gestionando el flujo de información:
 * **Bases de Datos**: Creación y consumo de bases de datos NoSQL con **MongoDB**.
@@ -58,7 +56,6 @@ Aunque no todos mis repositorios son visuales, cuento con sólida experiencia ge
 ## 🎨 Galería de Arte Digital
 * **Modelado 3D:** Diseño y animacion organica y en escenarios optimizados para motores de juego.
 * **Concept Art 2D:** Diseño de personajes (criaturas aladas) y escenarios atmosféricos (criptas y mazmorras).
-* 
 ---
 
 ## 📫 Contacto
